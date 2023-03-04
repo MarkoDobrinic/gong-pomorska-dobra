@@ -1,0 +1,141 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "BZP_CESTICE.fid--cba430d_186ac0b857c_c57",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            462861.59,
+                            5074625.22
+                        ],
+                        [
+                            462857.89,
+                            5074615.19
+                        ],
+                        [
+                            462862.61,
+                            5074613.49
+                        ],
+                        [
+                            462870.43,
+                            5074610.61
+                        ],
+                        [
+                            462871.85,
+                            5074610.09
+                        ],
+                        [
+                            462873.78,
+                            5074609.34
+                        ],
+                        [
+                            462884.03,
+                            5074605.36
+                        ],
+                        [
+                            462886.84,
+                            5074612.35
+                        ],
+                        [
+                            462887.98,
+                            5074615.18
+                        ],
+                        [
+                            462879,
+                            5074618.36
+                        ],
+                        [
+                            462878.71,
+                            5074618.46
+                        ],
+                        [
+                            462878.41,
+                            5074618.58
+                        ],
+                        [
+                            462866.55,
+                            5074623.26
+                        ],
+                        [
+                            462866.17,
+                            5074623.41
+                        ],
+                        [
+                            462865.17,
+                            5074623.8
+                        ],
+                        [
+                            462861.59,
+                            5074625.22
+                        ]
+                    ]
+                ]
+            },
+            "geometry_name": "GEOM",
+            "properties": {
+                "CESTICA_ID": 21415887,
+                "KATASTARSKA_OPCINA_ID": 2013,
+                "BROJ": "1545",
+                "PODBROJ": null,
+                "VRSTA": 0,
+                "BROJ_CESTICE": "1545",
+                "OPISNA_ADRESA": "Ulica Vladimira Vidrića",
+                "BROJ_ULOSKA": null,
+                "POVRSINA_ATRIBUTNA": 294,
+                "POVRSINA_GRAFICKA": 293.3,
+                "DETALJNI_LIST": "16",
+                "PLOMBA": null,
+                "PLOMBA_RN": null,
+                "IZVORNO_MJERILO": 1000,
+                "STATUS_KZ_KN": 0,
+                "STATUS_UPISA": 0,
+                "SPIS_ID": 32544166,
+                "OZNAKA_IZVORA": 0,
+                "KORISNIK_ID": 95984,
+                "DATUM": "2023-01-12Z",
+                "OZNAKA_NACIONALIZIRANO": null,
+                "OZNAKA_GRAD_ZEMLJISTA": null,
+                "OZNAKA_POMORSKOG_DOBRA": null,
+                "OZNAKA_UZORNE_CESTICE": null,
+                "BROJ_KATASTARSKOG_PLANA": null,
+                "MATICNI_BROJ_KO": 335533,
+                "PRIJAVNI_LIST_ID": null,
+                "KC_DIO_": "0",
+                "KC_ZKKC_DIO_": null,
+                "PROMJENA": null,
+                "NAPOMENA": null,
+                "PRIMJEDBA_CESTICE": null,
+                "BROJ_KT_CESTICE": null,
+                "POPIS_PROMJENA_ID": null,
+                "PRIMJEDBA": null,
+                "OZNAKA_PRILOGA": null,
+                "STATUS_NI_BZP": 0
+            },
+            "bbox": [
+                462857.89,
+                5074605.36,
+                462887.98,
+                5074625.22
+            ]
+        }
+    ],
+    "totalFeatures": "unknown",
+    "numberReturned": 1,
+    "timeStamp": "2023-03-04T09:56:24.186Z",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::3765"
+        }
+    },
+    "bbox": [
+        462857.89,
+        5074605.36,
+        462887.98,
+        5074625.22
+    ]
+}
