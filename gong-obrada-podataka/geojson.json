@@ -1,0 +1,72 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": "BZP_CESTICE.fid-7f2ab7f9_186abfe2747_268",
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[590840.72, 5023219.06],
+						[590853.17, 5023210.5],
+						[590857.65, 5023214.75],
+						[590884.83, 5023241.81],
+						[590872.75, 5023251.89],
+						[590862.65, 5023241.46],
+						[590857.97, 5023236.61],
+						[590854.14, 5023232.66],
+						[590845.15, 5023223.62],
+						[590840.72, 5023219.06]
+					]
+				]
+			},
+			"geometry_name": "GEOM",
+			"properties": {
+				"CESTICA_ID": 5764841,
+				"KATASTARSKA_OPCINA_ID": 2473,
+				"BROJ": "3952",
+				"PODBROJ": "3",
+				"VRSTA": 0,
+				"BROJ_CESTICE": "3952/3",
+				"OPISNA_ADRESA": "GRADSKO PODRUČJE",
+				"BROJ_ULOSKA": null,
+				"POVRSINA_ATRIBUTNA": 692,
+				"POVRSINA_GRAFICKA": 691,
+				"DETALJNI_LIST": "11",
+				"PLOMBA": null,
+				"PLOMBA_RN": null,
+				"IZVORNO_MJERILO": 2000,
+				"STATUS_KZ_KN": 0,
+				"STATUS_UPISA": 0,
+				"SPIS_ID": null,
+				"OZNAKA_IZVORA": 2,
+				"KORISNIK_ID": -1,
+				"DATUM": "2013-06-14Z",
+				"OZNAKA_NACIONALIZIRANO": null,
+				"OZNAKA_GRAD_ZEMLJISTA": null,
+				"OZNAKA_POMORSKOG_DOBRA": null,
+				"OZNAKA_UZORNE_CESTICE": null,
+				"BROJ_KATASTARSKOG_PLANA": null,
+				"MATICNI_BROJ_KO": 327760,
+				"PRIJAVNI_LIST_ID": null,
+				"KC_DIO_": "0",
+				"KC_ZKKC_DIO_": null,
+				"PROMJENA": "287",
+				"NAPOMENA": "3/70",
+				"PRIMJEDBA_CESTICE": "GZ;",
+				"BROJ_KT_CESTICE": "3952/3",
+				"POPIS_PROMJENA_ID": null,
+				"PRIMJEDBA": null,
+				"OZNAKA_PRILOGA": 0,
+				"STATUS_NI_BZP": 0
+			},
+			"bbox": [590840.72, 5023210.5, 590884.83, 5023251.89]
+		}
+	],
+	"totalFeatures": "unknown",
+	"numberReturned": 1,
+	"timeStamp": "2023-03-04T09:42:33.236Z",
+
+	"bbox": [590840.72, 5023210.5, 590884.83, 5023251.89]
+}

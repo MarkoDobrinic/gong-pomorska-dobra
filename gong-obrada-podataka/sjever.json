@@ -1,0 +1,76 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": "BZP_CESTICE.fid-55cc00f1_186ac0af4d7_4522",
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[488689.29, 5156443.48],
+						[488693.53, 5156432.67],
+						[488697.93, 5156430],
+						[488880.8, 5156318.43],
+						[488886.34, 5156315.04],
+						[488881.28, 5156325.5],
+						[488880.87, 5156326.86],
+						[488877.43, 5156328.95],
+						[488689.29, 5156443.48]
+					]
+				]
+			},
+			"geometry_name": "GEOM",
+			"properties": {
+				"CESTICA_ID": 8512624,
+				"KATASTARSKA_OPCINA_ID": 2652,
+				"BROJ": "4502",
+				"PODBROJ": null,
+				"VRSTA": 0,
+				"BROJ_CESTICE": "4502",
+				"OPISNA_ADRESA": "HERJAVICA           ",
+				"BROJ_ULOSKA": null,
+				"POVRSINA_ATRIBUTNA": 1602,
+				"POVRSINA_GRAFICKA": 1602,
+				"DETALJNI_LIST": "4",
+				"PLOMBA": null,
+				"PLOMBA_RN": null,
+				"IZVORNO_MJERILO": 2000,
+				"STATUS_KZ_KN": 0,
+				"STATUS_UPISA": 0,
+				"SPIS_ID": null,
+				"OZNAKA_IZVORA": 2,
+				"KORISNIK_ID": -28,
+				"DATUM": "2015-05-15Z",
+				"OZNAKA_NACIONALIZIRANO": null,
+				"OZNAKA_GRAD_ZEMLJISTA": null,
+				"OZNAKA_POMORSKOG_DOBRA": null,
+				"OZNAKA_UZORNE_CESTICE": null,
+				"BROJ_KATASTARSKOG_PLANA": "4",
+				"MATICNI_BROJ_KO": 303267,
+				"PRIJAVNI_LIST_ID": null,
+				"KC_DIO_": "0",
+				"KC_ZKKC_DIO_": null,
+				"PROMJENA": "31",
+				"NAPOMENA": null,
+				"PRIMJEDBA_CESTICE": null,
+				"BROJ_KT_CESTICE": "4502",
+				"POPIS_PROMJENA_ID": null,
+				"PRIMJEDBA": null,
+				"OZNAKA_PRILOGA": 0,
+				"STATUS_NI_BZP": 0
+			},
+			"bbox": [488689.29, 5156315.04, 488886.34, 5156443.48]
+		}
+	],
+	"totalFeatures": "unknown",
+	"numberReturned": 1,
+	"timeStamp": "2023-03-04T09:56:55.495Z",
+	"crs": {
+		"type": "name",
+		"properties": {
+			"name": "urn:ogc:def:crs:EPSG::3765"
+		}
+	},
+	"bbox": [488689.29, 5156315.04, 488886.34, 5156443.48]
+}

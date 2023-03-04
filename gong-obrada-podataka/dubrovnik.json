@@ -1,0 +1,74 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": "BZP_CESTICE.fid--6386e8b7_186ac0b96aa_-2b54",
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[666109.56, 4697393.82],
+						[666134.46, 4697381.68],
+						[666149.6, 4697402.69],
+						[666166.79, 4697426.52],
+						[666140.71, 4697439.61],
+						[666124.2, 4697415.32],
+						[666109.56, 4697393.82]
+					]
+				]
+			},
+			"geometry_name": "GEOM",
+			"properties": {
+				"CESTICA_ID": 15491320,
+				"KATASTARSKA_OPCINA_ID": 2920,
+				"BROJ": "2921",
+				"PODBROJ": null,
+				"VRSTA": 0,
+				"BROJ_CESTICE": "2921",
+				"OPISNA_ADRESA": "DO",
+				"BROJ_ULOSKA": null,
+				"POVRSINA_ATRIBUTNA": 1457,
+				"POVRSINA_GRAFICKA": 1555,
+				"DETALJNI_LIST": "9",
+				"PLOMBA": null,
+				"PLOMBA_RN": null,
+				"IZVORNO_MJERILO": 2880,
+				"STATUS_KZ_KN": 0,
+				"STATUS_UPISA": 0,
+				"SPIS_ID": null,
+				"OZNAKA_IZVORA": 2,
+				"KORISNIK_ID": -82,
+				"DATUM": "2016-04-01Z",
+				"OZNAKA_NACIONALIZIRANO": null,
+				"OZNAKA_GRAD_ZEMLJISTA": null,
+				"OZNAKA_POMORSKOG_DOBRA": null,
+				"OZNAKA_UZORNE_CESTICE": null,
+				"BROJ_KATASTARSKOG_PLANA": "9",
+				"MATICNI_BROJ_KO": 307360,
+				"PRIJAVNI_LIST_ID": null,
+				"KC_DIO_": "0",
+				"KC_ZKKC_DIO_": null,
+				"PROMJENA": null,
+				"NAPOMENA": null,
+				"PRIMJEDBA_CESTICE": null,
+				"BROJ_KT_CESTICE": "2921",
+				"POPIS_PROMJENA_ID": null,
+				"PRIMJEDBA": null,
+				"OZNAKA_PRILOGA": 0,
+				"STATUS_NI_BZP": 0
+			},
+			"bbox": [666109.56, 4697381.68, 666166.79, 4697439.61]
+		}
+	],
+	"totalFeatures": "unknown",
+	"numberReturned": 1,
+	"timeStamp": "2023-03-04T09:55:43.448Z",
+	"crs": {
+		"type": "name",
+		"properties": {
+			"name": "urn:ogc:def:crs:EPSG::3765"
+		}
+	},
+	"bbox": [666109.56, 4697381.68, 666166.79, 4697439.61]
+}

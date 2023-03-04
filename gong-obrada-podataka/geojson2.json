@@ -1,0 +1,86 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": "BZP_CESTICE.fid-b640991_186ac0a88bf_-73b3",
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[415688.57, 4906446.2],
+						[415685.63, 4906444.22],
+						[415678.08, 4906442.4],
+						[415677.21, 4906440.59],
+						[415678.78, 4906438.06],
+						[415686.38, 4906431],
+						[415694.3, 4906426.47],
+						[415694.73, 4906426.18],
+						[415702.16, 4906436.85],
+						[415709.15, 4906446.86],
+						[415714.32, 4906453.41],
+						[415711.35, 4906454.72],
+						[415708.04, 4906456.86],
+						[415704.11, 4906456],
+						[415696.76, 4906450.33],
+						[415695.7, 4906449.86],
+						[415691.38, 4906447.72],
+						[415689.7, 4906446.96],
+						[415688.57, 4906446.2]
+					]
+				]
+			},
+			"geometry_name": "GEOM",
+			"properties": {
+				"CESTICA_ID": 6597032,
+				"KATASTARSKA_OPCINA_ID": 2560,
+				"BROJ": "3130",
+				"PODBROJ": null,
+				"VRSTA": 0,
+				"BROJ_CESTICE": "3130",
+				"OPISNA_ADRESA": "GLAVČICE",
+				"BROJ_ULOSKA": "1102",
+				"POVRSINA_ATRIBUTNA": 450,
+				"POVRSINA_GRAFICKA": 500.83,
+				"DETALJNI_LIST": "10",
+				"PLOMBA": null,
+				"PLOMBA_RN": null,
+				"IZVORNO_MJERILO": 2000,
+				"STATUS_KZ_KN": 0,
+				"STATUS_UPISA": 0,
+				"SPIS_ID": 30217452,
+				"OZNAKA_IZVORA": 0,
+				"KORISNIK_ID": 47902,
+				"DATUM": "2022-11-27Z",
+				"OZNAKA_NACIONALIZIRANO": null,
+				"OZNAKA_GRAD_ZEMLJISTA": null,
+				"OZNAKA_POMORSKOG_DOBRA": null,
+				"OZNAKA_UZORNE_CESTICE": null,
+				"BROJ_KATASTARSKOG_PLANA": "10",
+				"MATICNI_BROJ_KO": 335053,
+				"PRIJAVNI_LIST_ID": null,
+				"KC_DIO_": "0",
+				"KC_ZKKC_DIO_": null,
+				"PROMJENA": null,
+				"NAPOMENA": null,
+				"PRIMJEDBA_CESTICE": null,
+				"BROJ_KT_CESTICE": "3130",
+				"POPIS_PROMJENA_ID": 3691585,
+				"PRIMJEDBA": null,
+				"OZNAKA_PRILOGA": 0,
+				"STATUS_NI_BZP": 0
+			},
+			"bbox": [415677.21, 4906426.18, 415714.32, 4906456.86]
+		}
+	],
+	"totalFeatures": "unknown",
+	"numberReturned": 1,
+	"timeStamp": "2023-03-04T09:54:19.417Z",
+	"crs": {
+		"type": "name",
+		"properties": {
+			"name": "urn:ogc:def:crs:EPSG::3765"
+		}
+	},
+	"bbox": [415677.21, 4906426.18, 415714.32, 4906456.86]
+}

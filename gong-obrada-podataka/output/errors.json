@@ -1,0 +1,170 @@
+[
+	{
+		"response": {
+			"status": 404,
+			"statusText": "Not Found",
+			"data": {
+				"status": "NOT_FOUND",
+				"message": "Odabrali ste česticu/uložak koji ne postoji u odabranoj glavnoj knjizi.",
+				"errors": [
+					"OssEntityNotFoundException: Odabrali ste česticu/uložak koji ne postoji u odabranoj glavnoj knjizi."
+				],
+				"statusCode": 404
+			},
+			"headers": {}
+		},
+		"config": {
+			"url": "https://oss.uredjenazemlja.hr/oss/public/lr-units/by-parcel-number?mainBookId=31739&parcelNumber=&lrUnitNumber=621%20A",
+			"method": "get",
+			"params": {},
+			"responseType": "json"
+		}
+	},
+	{
+		"response": {
+			"status": 404,
+			"statusText": "Not Found",
+			"data": {
+				"status": "NOT_FOUND",
+				"message": "Odabrali ste česticu/uložak koji ne postoji u odabranoj glavnoj knjizi.",
+				"errors": [
+					"OssEntityNotFoundException: Odabrali ste česticu/uložak koji ne postoji u odabranoj glavnoj knjizi."
+				],
+				"statusCode": 404
+			},
+			"headers": {}
+		},
+		"config": {
+			"url": "https://oss.uredjenazemlja.hr/oss/public/lr-units/by-parcel-number?mainBookId=31208&parcelNumber=&lrUnitNumber=1381",
+			"method": "get",
+			"params": {},
+			"responseType": "json"
+		}
+	},
+	{
+		"response": {
+			"status": 404,
+			"statusText": "Not Found",
+			"data": {
+				"status": "NOT_FOUND",
+				"message": "Odabrali ste česticu/uložak koji ne postoji u odabranoj glavnoj knjizi.",
+				"errors": [
+					"OssEntityNotFoundException: Odabrali ste česticu/uložak koji ne postoji u odabranoj glavnoj knjizi."
+				],
+				"statusCode": 404
+			},
+			"headers": {}
+		},
+		"config": {
+			"url": "https://oss.uredjenazemlja.hr/oss/public/lr-units/by-parcel-number?mainBookId=30526&parcelNumber=&lrUnitNumber=POPIS%20IA",
+			"method": "get",
+			"params": {},
+			"responseType": "json"
+		}
+	},
+	{
+		"response": {
+			"status": 404,
+			"statusText": "Not Found",
+			"data": {
+				"status": "NOT_FOUND",
+				"message": "Odabrali ste česticu/uložak koji ne postoji u odabranoj glavnoj knjizi.",
+				"errors": [
+					"OssEntityNotFoundException: Odabrali ste česticu/uložak koji ne postoji u odabranoj glavnoj knjizi."
+				],
+				"statusCode": 404
+			},
+			"headers": {}
+		},
+		"config": {
+			"url": "https://oss.uredjenazemlja.hr/oss/public/lr-units/by-parcel-number?mainBookId=31739&parcelNumber=&lrUnitNumber=541%201",
+			"method": "get",
+			"params": {},
+			"responseType": "json"
+		}
+	},
+	{
+		"response": {
+			"status": 404,
+			"statusText": "Not Found",
+			"data": {
+				"status": "NOT_FOUND",
+				"message": "Odabrali ste česticu/uložak koji ne postoji u odabranoj glavnoj knjizi.",
+				"errors": [
+					"OssEntityNotFoundException: Odabrali ste česticu/uložak koji ne postoji u odabranoj glavnoj knjizi."
+				],
+				"statusCode": 404
+			},
+			"headers": {}
+		},
+		"config": {
+			"url": "https://oss.uredjenazemlja.hr/oss/public/lr-units/by-parcel-number?mainBookId=31739&parcelNumber=&lrUnitNumber=298%20R",
+			"method": "get",
+			"params": {},
+			"responseType": "json"
+		}
+	},
+	{
+		"response": {
+			"status": 404,
+			"statusText": "Not Found",
+			"data": {
+				"status": "NOT_FOUND",
+				"message": "Odabrali ste česticu/uložak koji ne postoji u odabranoj glavnoj knjizi.",
+				"errors": [
+					"OssEntityNotFoundException: Odabrali ste česticu/uložak koji ne postoji u odabranoj glavnoj knjizi."
+				],
+				"statusCode": 404
+			},
+			"headers": {}
+		},
+		"config": {
+			"url": "https://oss.uredjenazemlja.hr/oss/public/lr-units/by-parcel-number?mainBookId=31208&parcelNumber=&lrUnitNumber=1392",
+			"method": "get",
+			"params": {},
+			"responseType": "json"
+		}
+	},
+	{
+		"response": {
+			"status": 404,
+			"statusText": "Not Found",
+			"data": {
+				"status": "NOT_FOUND",
+				"message": "Odabrali ste česticu/uložak koji ne postoji u odabranoj glavnoj knjizi.",
+				"errors": [
+					"OssEntityNotFoundException: Odabrali ste česticu/uložak koji ne postoji u odabranoj glavnoj knjizi."
+				],
+				"statusCode": 404
+			},
+			"headers": {}
+		},
+		"config": {
+			"url": "https://oss.uredjenazemlja.hr/oss/public/lr-units/by-parcel-number?mainBookId=30142&parcelNumber=&lrUnitNumber=348",
+			"method": "get",
+			"params": {},
+			"responseType": "json"
+		}
+	},
+	{
+		"response": {
+			"status": 404,
+			"statusText": "Not Found",
+			"data": {
+				"status": "NOT_FOUND",
+				"message": "Odabrali ste česticu/uložak koji ne postoji u odabranoj glavnoj knjizi.",
+				"errors": [
+					"OssEntityNotFoundException: Odabrali ste česticu/uložak koji ne postoji u odabranoj glavnoj knjizi."
+				],
+				"statusCode": 404
+			},
+			"headers": {}
+		},
+		"config": {
+			"url": "https://oss.uredjenazemlja.hr/oss/public/lr-units/by-parcel-number?mainBookId=30142&parcelNumber=&lrUnitNumber=349",
+			"method": "get",
+			"params": {},
+			"responseType": "json"
+		}
+	}
+]
